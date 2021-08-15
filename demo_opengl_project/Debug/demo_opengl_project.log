@@ -1,0 +1,11 @@
+﻿  WindowsInput.cpp
+  ExampleApp.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\workspaces\project\demo_opengl_project\Dependencies\GLAD\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+  ExampleLayer.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\workspaces\project\demo_opengl_project\Dependencies\GLAD\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+  imgui_widgets.cpp
+  Generating Code...
+  glad.c
+  demo_opengl_project.vcxproj -> E:\workspaces\project\demo_opengl_project\Debug\demo_opengl_project.exe

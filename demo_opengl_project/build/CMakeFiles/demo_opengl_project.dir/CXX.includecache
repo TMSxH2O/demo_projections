@@ -1,0 +1,19 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform:
+
+E:/workspaces/project/demo_opengl_project/src/examples/ExampleApp.cpp
+Core.h
+E:/workspaces/project/demo_opengl_project/src/examples/Core.h
+ExampleLayer.h
+E:/workspaces/project/demo_opengl_project/src/examples/ExampleLayer.h
+
+E:/workspaces/project/demo_opengl_project/src/examples/ExampleLayer.h
+Core.h
+-
+CoreUtils.h
+-

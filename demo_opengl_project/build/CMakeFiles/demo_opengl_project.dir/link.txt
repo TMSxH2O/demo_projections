@@ -1,0 +1,3 @@
+"E:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f CMakeFiles\demo_opengl_project.dir/objects.a
+E:\workspaces\dependencies\mingw\mingw64\bin\ar.exe cr CMakeFiles\demo_opengl_project.dir/objects.a @CMakeFiles\demo_opengl_project.dir\objects1.rsp
+E:\workspaces\dependencies\mingw\mingw64\bin\g++.exe -Wl,--whole-archive CMakeFiles\demo_opengl_project.dir/objects.a -Wl,--no-whole-archive -o demo_opengl_project.exe -Wl,--out-implib,libdemo_opengl_project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\demo_opengl_project.dir\linklibs.rsp
